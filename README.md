@@ -10,7 +10,7 @@ Value types by themselves cannot be referenced in managed C# code. This becomes 
 
 **Example**:
 
-```
+```csharp
 using CLSS;
 
 int valA = 3;
